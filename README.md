@@ -19,5 +19,5 @@ THERES CAN EXIST SO MANY BUGS because I try to debug all of that I saw, but I do
 
 
 # HONORABLE MENTION
-i references turing complete (game) so much. thank you for LevelHead.
+i referenced turing complete (game) so much. thank you for LevelHead.
 plz play this https://store.steampowered.com/app/1444480/Turing_Complete
