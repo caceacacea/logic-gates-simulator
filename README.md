@@ -16,3 +16,8 @@ drag component to move component.
 ANSI and IEC style logic gates support.
 
 THERES CAN EXIST SO MANY BUGS because I try to debug all of that I saw, but I don't think I(i mean I is I find bug and gpt fix that) debugged all bugs.
+
+
+# HONORABLE MENTION
+i references turing complete (game) so much. thank you for LevelHead.
+plz play this https://store.steampowered.com/app/1444480/Turing_Complete
